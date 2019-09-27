@@ -1,0 +1,15 @@
+{
+  "name": "platzi-video",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Zulema Vicente",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
